@@ -1,1 +1,1 @@
-# node-express-kafka-producer-boilerplate
+# express-kafka-producer-boilerplate
